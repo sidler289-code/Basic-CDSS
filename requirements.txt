@@ -1,0 +1,12 @@
+pyyaml>=6.0
+numpy>=1.24.0
+faiss-cpu>=1.7.0
+jieba>=0.42.1
+requests>=2.28.0
+jsonschema>=4.17.0
+fastapi>=0.100.0
+uvicorn>=0.23.0
+python-multipart>=0.0.6
+openai>=1.0.0
+pypdf>=4.0.0
+neo4j>=5.20.0
